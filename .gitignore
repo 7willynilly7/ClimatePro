@@ -1,0 +1,9 @@
+DerivedData/
+build/
+*.xcuserdata
+*.xcworkspace
+.DS_Store
+*.mp4*.mp4
+*.mp4
+*.mp4
+OpenAIService.swift
