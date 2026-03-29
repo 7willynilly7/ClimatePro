@@ -1,6 +1,7 @@
 # ClimatePro
 
-Laurier Computing Society Hackathon Submission
+Laurier Computing Society Hackathon Submission.
+
 Built with love for the enviroment, by The Goofy Goobers: William Burbank & Olivia Brozy
 
 ⸻
